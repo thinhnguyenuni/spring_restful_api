@@ -1,5 +1,8 @@
-# Java Spring Starter template
-Template này được sử dụng cho series Java Spring Restful (dự án jobHunter) của tác giả Hỏi Dân IT (Eric)
+# Java Spring RESTful API (FINAL PROJECT)
+Full Source Code series Java Spring Restful (dự án jobHunter) của tác giả Hỏi Dân IT (Eric)
+
+===
+Môi trường dự án: Java v17
 
 ## Về tác giả
 Mọi thông tin về Tác giả Hỏi Dân IT, các bạn có thể tìm kiếm tại đây:
